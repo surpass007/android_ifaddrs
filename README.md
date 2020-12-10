@@ -1,1 +1,1 @@
-# android_ifaddrs
+#### android ifaddrs implement  copy from https://dxr.mozilla.org/mozilla-beta/source/media/mtransport/third_party/nICEr/src/stun/ifaddrs-android.c and https://dxr.mozilla.org/mozilla-beta/source/media/mtransport/third_party/nICEr/src/stun/ifaddrs-android.h
